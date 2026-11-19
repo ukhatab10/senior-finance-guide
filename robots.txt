@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ukhatab10.github.io/senior-finance-guide/sitemap.xml
